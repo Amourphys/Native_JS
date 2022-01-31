@@ -42,3 +42,4 @@ const bg = document.getElementById('big')
 // sm.removeEventListener('click', handler1)
 // sm.removeEventListener('click', () => alert('Booom!!!')) // только так можно удалить
 sm.addEventListener('click', handler4)
+document.write(`&#x20bd`)
